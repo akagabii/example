@@ -1,3 +1,3 @@
 const frutas = ["Banana", "Manzana","Pera"];
 
-module.exports
+module.exports = frutas
